@@ -58,18 +58,20 @@
     "url": "http://alliedgrouppa.com/",
     "icon": "https://favicons.githubusercontent.com/alliedgrouppa.com",
     "slug": "allied-group-pa",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
     "time": 128,
     "timeDay": 128,
     "timeWeek": 128,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-15": 2
+    }
   },
   {
     "name": "Allied Maintenance Systems",
