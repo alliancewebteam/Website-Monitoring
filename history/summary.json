@@ -184,19 +184,19 @@
     "url": "https://caippa.com/",
     "icon": "https://favicons.githubusercontent.com/caippa.com",
     "slug": "capital-area-insurance",
-    "status": "down",
-    "uptime": "98.40%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "98.40%",
-    "time": 4553,
-    "timeDay": 4553,
-    "timeWeek": 4553,
-    "timeMonth": 4553,
-    "timeYear": 4553,
+    "status": "up",
+    "uptime": "86.31%",
+    "uptimeDay": "86.31%",
+    "uptimeWeek": "86.31%",
+    "uptimeMonth": "86.31%",
+    "uptimeYear": "86.31%",
+    "time": 4670,
+    "timeDay": 4670,
+    "timeWeek": 4670,
+    "timeMonth": 4670,
+    "timeYear": 4670,
     "dailyMinutesDown": {
-      "2021-06-15": 1
+      "2021-06-15": 13
     }
   },
   {
