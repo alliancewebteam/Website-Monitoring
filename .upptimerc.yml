@@ -127,6 +127,9 @@ sites:
                 
   - name: Key Painting
     url: https://keypainting.net/
+                    
+  - name: "King's View Acres"
+    url: https://www.kingsviewacres.com/
                 
   - name: Machining America
     url: https://machiningamerica.com/
@@ -145,6 +148,9 @@ sites:
                 
   - name: PrimeFyre LLC
     url: https://primefyre.com/
+    
+  - name: Reach For More
+    url: https://reachformore.fit/
                 
   - name: Reves Etheres Event LLC
     url: https://revesetheres.com/
@@ -208,6 +214,10 @@ sites:
             
   - name: Woodburn Law
     url: https://www.woodburn-law.com/
+    
+  - name: Zang Physical Therapy
+    url: https://zangpt.com/    
+    
     
 assignees: # Users to assign downtime issues (optional)
   - jonathansingel
