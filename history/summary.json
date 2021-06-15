@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/alliedgrouppa.com",
     "slug": "allied-group-pa",
     "status": "down",
-    "uptime": "86.76%",
-    "uptimeDay": "86.76%",
-    "uptimeWeek": "86.76%",
-    "uptimeMonth": "86.76%",
-    "uptimeYear": "86.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 158,
     "timeDay": 158,
     "timeWeek": 158,
     "timeMonth": 158,
     "timeYear": 158,
-    "dailyMinutesDown": {
-      "2021-06-15": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Allied Maintenance Systems",
@@ -79,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/www.alliedmaintenancesystems.com",
     "slug": "allied-maintenance-systems",
     "status": "up",
-    "uptime": "40.73%",
-    "uptimeDay": "40.73%",
-    "uptimeWeek": "40.73%",
-    "uptimeMonth": "40.73%",
-    "uptimeYear": "40.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 292,
     "timeDay": 292,
     "timeWeek": 292,
     "timeMonth": 292,
     "timeYear": 292,
-    "dailyMinutesDown": {
-      "2021-06-15": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AquaTek Cleaning Solutions",
