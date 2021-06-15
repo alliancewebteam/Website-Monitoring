@@ -4,8 +4,8 @@ repo: Website-Monitoring # The name of this repository
 sites:
   - name: Alliance Computers
     url: https://alliancecomp.com
-  - name: Test Broken Site 2
-    url: https://thissitedoesnodddtexist.koj.co
+  - name: Test Broken Site 3
+    url: https://thissitedoedfdsnodddtexist.koj.co
 assignees: # Users to assign downtime issues (optional)
   - jonathansingel
 status-website:
