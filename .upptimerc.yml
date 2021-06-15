@@ -12,7 +12,10 @@ sites:
     url: https://harrisburgarchitects.net
     
   - name: Allied Group PA
-    url: https://alliedgrouppa.com/
+    url: http://alliedgrouppa.com/
+    
+  - name: Allied Maintenance Systems
+    url: http://alliedgrouppa.com/
     
   - name: Anderson Pro Painting
     url: https://andersonpropainting.com
