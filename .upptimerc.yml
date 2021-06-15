@@ -4,8 +4,199 @@ repo: Website-Monitoring # The name of this repository
 sites:
   - name: Alliance Computers
     url: https://alliancecomp.com
-  - name: Test Broken Site 3
-    url: https://thissitedoedfdsnodddtexist.koj.co
+    
+  - name: Access Bus & Van
+    url: https://www.accessbusandvan.com
+    
+  - name: Allison Ong Shreffler, Architecture
+    url: https://harrisburgarchitects.net
+    
+  - name: Anderson Pro Painting
+    url: https://andersonpropainting.com
+    
+  - name: Autism York
+    url: https://autismyork.org
+    
+  - name: Bow Creek Financial And Jewelry
+    url: http://www.bowcreekfinancial.com
+    
+  - name: Boyo Transportation
+    url: https://www.boyotrans.com
+    
+  - name: Capital Area Insurance
+    url: https://caippa.com
+    
+  - name: Capital Hospitality Services
+    url: https://chshotelrenovations.com
+    
+  - name: Carpet Care Solutions, Inc
+    url: https://harrisburgarchitects.net
+    
+  - name: Center For Independent Living
+    url: https://cilopportunities.org/
+    
+  - name: Christ Presbyterian Church
+    url: https://www.christchurchcamphill.org/
+    
+  - name: Christopher Columbus Scholarship Foundation
+    url: https://www.ccsfyorkpa.org/
+    
+  - name: Clarke Benefits
+    url: https://clarkebenefits4u.com/
+        
+  - name: Creative Building Concepts
+    url: https://buildsomethingcreative.com/
+        
+  - name: Creative Law Studio
+    url: https://www.creativelawstudio.com/
+        
+  - name: Dale Wagner Insurance Agency
+    url: https://www.dwi-ins.com/
+        
+  - name: DB360 Soft Wash
+    url: https://db360wash.com
+        
+  - name: Down East Granite
+    url: https://www.downeastfab.com/
+        
+  - name: Duffy's Bed And Biscuit
+    url: https://duffysbedandbiscuit.com
+        
+  - name: F&M Designs
+    url: https://fandmdesigns.com
+        
+  - name: Fortney Printing
+    url: https://www.fortneyprinting.com/
+            
+  - name: Glossner & Mcelwee Family Dentistry
+    url: https://gmdentalcare.net/
+            
+  - name: Go Life Surfing Inc.
+    url: https://golifesurfing.com/
+            
+  - name: Grassworks Landscaping
+    url: https://grassworkslandscaping.com/
+            
+  - name: Guth Laboratories
+    url: https://www.guthlabs.com/
+            
+  - name: Habitat for Humanity of the Greater Harrisburg Area
+    url: https://harrisburghabitat.org/
+            
+  - name: Habitat for Humanity of the Greater Harrisburg Area - ReStore
+    url: https://harrisburgrestore.org/
+            
+  - name: Handyworx
+    url: https://www.thehandyworx.com/
+            
+  - name: Hershey Real Estate Group
+    url: https://hersheyreg.com/
+            
+  - name: Hoem Inc.
+    url: https://www.hoem-inc.com/
+            
+  - name: Hoem Inc. / Precision Metal Fabricating
+    url: https:/precisionmetalpa.com/
+            
+  - name: Home Builders Association of Metropolitan Harrisburg
+    url: https://www.harrisburgbuilders.com/
+            
+  - name: HBA / PA Home & Garden Design Expo
+    url: https://www.pahomeandgarden.com/
+    
+  - name: Impact Harrisburg
+    url: https://impactharrisburg.org/
+                
+  - name: Indian Creek
+    url: https://indiancreekcommunity.org/
+                
+  - name: John Jewett
+    url: https://jhowardcahill.com/
+                
+  - name: Key Painting
+    url: https://keypainting.net/
+                
+  - name: Machining America
+    url: https://machiningamerica.com/
+                
+  - name: MJR Equipment
+    url: https://www.mjrequipment.com/
+                
+  - name: Moyles Muzic Law
+    url: https://www.moyleslaw.com/
+                
+  - name: Mr Sandman Flooring
+    url: https://callmrsandman.com/
+                
+  - name: Pigott Agency
+    url: https://www.pigottagencyllc.com/
+                
+  - name: PrimeFyre LLC
+    url: https://primefyre.com/
+                
+  - name: Reves Etheres Event LLC
+    url: https://revesetheres.com/
+                    
+  - name: Redd's Smokehouse BBQ
+    url: https://reddssmokehousebbq.com/
+                            
+  - name: Saidis, Shultz, & Fisher
+    url: https://www.ssfadvocates.com/
+                
+  - name: Saidis, Shultz, & Fisher
+    url: https://www.ssfadvocates.com/
+                    
+  - name: Savannah's
+    url: http://sohclub.com
+                    
+  - name: Securewire Technologies LLC
+    url: https://www.securewiretech.com/
+                        
+  - name: Seifert Woodcrafts
+    url: https://seifertwc.com/
+    
+  - name: Simply Greek, Hershey
+    url: https://simplygreekhershey.com
+        
+  - name: Steve Puchalo / Church of God
+    url: https://www.followjesuscog.com/
+        
+  - name: Stone and Edwards
+    url: https://www.stoneandedwards.com/
+        
+  - name: Strategic Response Firearms Training
+    url: https://www.srft16.com/
+        
+  - name: Sunrise Stables
+    url: https://sunrisehorseboarding.com/
+        
+  - name: Szeles and Associates
+    url: https://www.szelesas.com/
+        
+  - name: The Meadows Pet Resort
+    url: https://www.themeadowspetresort.com/
+        
+  - name: Touch of Color Flooring
+    url: https://touchofcolorflooring.com/
+        
+  - name: Tritan Pool and Spa
+    url: https://www.tritanpoolandspa.com/
+        
+  - name: Trix of the Trade Salon
+    url: https://trixofthetradesalon.com/
+        
+  - name: Upon This Rock Ministries
+    url: https://uponthisrock2950.com/
+          
+  - name: West Shore Elks
+    url: https://westshoreelks.org/
+            
+  - name: Wide Horizons Travel
+    url: https://widehorizonstravel.com/
+            
+  - name: Woodburn Law
+    url: https://www.woodburn-law.com/
+    
 assignees: # Users to assign downtime issues (optional)
   - jonathansingel
 status-website:
