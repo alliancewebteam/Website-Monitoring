@@ -184,18 +184,20 @@
     "url": "https://caippa.com/",
     "icon": "https://favicons.githubusercontent.com/caippa.com",
     "slug": "capital-area-insurance",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5419,
-    "timeDay": 5419,
-    "timeWeek": 5419,
-    "timeMonth": 5419,
-    "timeYear": 5419,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
+    "time": 4553,
+    "timeDay": 4553,
+    "timeWeek": 4553,
+    "timeMonth": 4553,
+    "timeYear": 4553,
+    "dailyMinutesDown": {
+      "2021-06-15": 1
+    }
   },
   {
     "name": "Capital Hospitality Services",
