@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/alliedgrouppa.com",
     "slug": "allied-group-pa",
     "status": "up",
-    "uptime": "64.48%",
-    "uptimeDay": "64.48%",
-    "uptimeWeek": "64.48%",
-    "uptimeMonth": "64.48%",
-    "uptimeYear": "64.48%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 158,
     "timeDay": 158,
     "timeWeek": 158,
     "timeMonth": 158,
     "timeYear": 158,
-    "dailyMinutesDown": {
-      "2021-06-15": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Allied Maintenance Systems",
@@ -79,18 +77,18 @@
     "icon": "https://favicons.githubusercontent.com/alliedgrouppa.com",
     "slug": "allied-maintenance-systems",
     "status": "up",
-    "uptime": "90.78%",
-    "uptimeDay": "90.78%",
-    "uptimeWeek": "90.78%",
-    "uptimeMonth": "90.78%",
-    "uptimeYear": "90.78%",
+    "uptime": "80.46%",
+    "uptimeDay": "80.46%",
+    "uptimeWeek": "80.46%",
+    "uptimeMonth": "80.46%",
+    "uptimeYear": "80.46%",
     "time": 43,
     "timeDay": 43,
     "timeWeek": 43,
     "timeMonth": 43,
     "timeYear": 43,
     "dailyMinutesDown": {
-      "2021-06-15": 0
+      "2021-06-15": 1
     }
   },
   {
@@ -171,11 +169,11 @@
     "icon": "https://favicons.githubusercontent.com/caippa.com",
     "slug": "capital-area-insurance",
     "status": "down",
-    "uptime": "94.60%",
-    "uptimeDay": "94.60%",
-    "uptimeWeek": "94.60%",
-    "uptimeMonth": "94.60%",
-    "uptimeYear": "94.60%",
+    "uptime": "93.74%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "93.74%",
+    "uptimeYear": "93.74%",
     "time": 12969,
     "timeDay": 12969,
     "timeWeek": 12969,
