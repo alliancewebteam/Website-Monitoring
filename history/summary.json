@@ -59,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/alliedgrouppa.com",
     "slug": "allied-group-pa",
     "status": "down",
-    "uptime": "57.01%",
-    "uptimeDay": "57.01%",
-    "uptimeWeek": "57.01%",
-    "uptimeMonth": "57.01%",
-    "uptimeYear": "57.01%",
+    "uptime": "36.57%",
+    "uptimeDay": "36.57%",
+    "uptimeWeek": "36.57%",
+    "uptimeMonth": "36.57%",
+    "uptimeYear": "36.57%",
     "time": 137,
     "timeDay": 137,
     "timeWeek": 137,
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2021-06-15": 113
+      "2021-06-16": 145,
+      "2021-06-15": 114
     }
   },
   {
