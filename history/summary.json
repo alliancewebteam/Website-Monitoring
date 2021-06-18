@@ -328,19 +328,19 @@
     "url": "https://www.dwi-ins.com/",
     "icon": "https://favicons.githubusercontent.com/www.dwi-ins.com",
     "slug": "dale-wagner-insurance-agency",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 728,
-    "timeDay": 468,
-    "timeWeek": 728,
-    "timeMonth": 728,
-    "timeYear": 728,
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
+    "time": 701,
+    "timeDay": 421,
+    "timeWeek": 701,
+    "timeMonth": 701,
+    "timeYear": 701,
     "dailyMinutesDown": {
-      "2021-06-18": 1
+      "2021-06-18": 87
     }
   },
   {
