@@ -278,36 +278,40 @@
     "url": "https://clarkebenefits4u.com/",
     "icon": "https://favicons.githubusercontent.com/clarkebenefits4u.com",
     "slug": "clarke-benefits",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3065,
     "timeDay": 3435,
     "timeWeek": 2826,
     "timeMonth": 3065,
     "timeYear": 3065,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-01": 2
+    }
   },
   {
     "name": "Creative Building Concepts",
     "url": "https://buildsomethingcreative.com/",
     "icon": "https://favicons.githubusercontent.com/buildsomethingcreative.com",
     "slug": "creative-building-concepts",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1562,
     "timeDay": 1265,
     "timeWeek": 1597,
     "timeMonth": 1562,
     "timeYear": 1562,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-01": 1
+    }
   },
   {
     "name": "Creative Law Studio",
@@ -442,90 +446,100 @@
     "url": "https://www.fortneyprinting.com/",
     "icon": "https://favicons.githubusercontent.com/www.fortneyprinting.com",
     "slug": "fortney-printing",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 388,
     "timeDay": 339,
     "timeWeek": 408,
     "timeMonth": 388,
     "timeYear": 388,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-01": 1
+    }
   },
   {
     "name": "Glossner & Mcelwee Family Dentistry",
     "url": "https://gmdentalcare.net/",
     "icon": "https://favicons.githubusercontent.com/gmdentalcare.net",
     "slug": "glossner-and-mcelwee-family-dentistry",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2314,
     "timeDay": 1874,
     "timeWeek": 2113,
     "timeMonth": 2314,
     "timeYear": 2314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-01": 1
+    }
   },
   {
     "name": "Go Life Surfing Inc.",
     "url": "https://golifesurfing.com/",
     "icon": "https://favicons.githubusercontent.com/golifesurfing.com",
     "slug": "go-life-surfing-inc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2634,
     "timeDay": 2087,
     "timeWeek": 2487,
     "timeMonth": 2634,
     "timeYear": 2634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-01": 1
+    }
   },
   {
     "name": "Grassworks Landscaping",
     "url": "https://grassworkslandscaping.com/",
     "icon": "https://favicons.githubusercontent.com/grassworkslandscaping.com",
     "slug": "grassworks-landscaping",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2210,
     "timeDay": 1573,
     "timeWeek": 1896,
     "timeMonth": 2210,
     "timeYear": 2210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-01": 1
+    }
   },
   {
     "name": "Guth Laboratories",
     "url": "https://www.guthlabs.com/",
     "icon": "https://favicons.githubusercontent.com/www.guthlabs.com",
     "slug": "guth-laboratories",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2512,
     "timeDay": 2061,
     "timeWeek": 2516,
     "timeMonth": 2512,
     "timeYear": 2512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-01": 1
+    }
   },
   {
     "name": "Habitat for Humanity of the Greater Harrisburg Area",
@@ -623,18 +637,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hoem-inc-precision-metal-fabricating",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 505,
     "timeDay": 527,
     "timeWeek": 529,
     "timeMonth": 505,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2021-07-01": 1
+      "2021-07-01": 30
     }
   },
   {
@@ -1169,18 +1183,18 @@
     "icon": "https://favicons.githubusercontent.com/www.tritanpoolandspa.com",
     "slug": "tritan-pool-and-spa",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1633,
     "timeDay": 1753,
     "timeWeek": 1674,
     "timeMonth": 1633,
     "timeYear": 1633,
     "dailyMinutesDown": {
-      "2021-07-01": 0
+      "2021-07-01": 29
     }
   },
   {
