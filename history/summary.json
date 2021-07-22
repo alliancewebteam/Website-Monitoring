@@ -631,11 +631,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hoem-inc-precision-metal-fabricating",
     "status": "up",
-    "uptime": "84.34%",
+    "uptime": "84.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.36%",
-    "uptimeYear": "84.34%",
+    "uptimeYear": "84.45%",
     "time": 511,
     "timeDay": 480,
     "timeWeek": 479,
@@ -1185,11 +1185,11 @@
     "icon": "https://favicons.githubusercontent.com/www.tritanpoolandspa.com",
     "slug": "tritan-pool-and-spa",
     "status": "up",
-    "uptime": "84.34%",
+    "uptime": "84.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.36%",
-    "uptimeYear": "84.34%",
+    "uptimeYear": "84.45%",
     "time": 1558,
     "timeDay": 1238,
     "timeWeek": 1320,
@@ -1299,10 +1299,10 @@
     "url": "https://zangpt.com/",
     "icon": "https://favicons.githubusercontent.com/zangpt.com",
     "slug": "zang-physical-therapy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1926,
@@ -1310,6 +1310,8 @@
     "timeWeek": 1838,
     "timeMonth": 1905,
     "timeYear": 1926,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-22": 1
+    }
   }
 ]
