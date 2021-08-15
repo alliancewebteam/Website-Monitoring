@@ -527,19 +527,19 @@
     "url": "https://www.guthlabs.com/",
     "icon": "https://favicons.githubusercontent.com/www.guthlabs.com",
     "slug": "guth-laboratories",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2575,
-    "timeDay": 1664,
-    "timeWeek": 2083,
-    "timeMonth": 2633,
-    "timeYear": 2575,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 2593,
+    "timeDay": 2410,
+    "timeWeek": 2285,
+    "timeMonth": 2672,
+    "timeYear": 2593,
     "dailyMinutesDown": {
-      "2021-08-15": 1
+      "2021-08-15": 24
     }
   },
   {
