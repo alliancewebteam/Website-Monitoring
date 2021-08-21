@@ -300,19 +300,19 @@
     "url": "https://buildsomethingcreative.com/",
     "icon": "https://favicons.githubusercontent.com/buildsomethingcreative.com",
     "slug": "creative-building-concepts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1914,
-    "timeDay": 1328,
-    "timeWeek": 1513,
-    "timeMonth": 2032,
-    "timeYear": 1914,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1921,
+    "timeDay": 1564,
+    "timeWeek": 1603,
+    "timeMonth": 2046,
+    "timeYear": 1921,
     "dailyMinutesDown": {
-      "2021-08-21": 2
+      "2021-08-21": 17
     }
   },
   {
