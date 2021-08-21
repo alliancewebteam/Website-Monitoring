@@ -794,10 +794,10 @@
     "url": "https://www.kingsviewacres.com/",
     "icon": "https://favicons.githubusercontent.com/www.kingsviewacres.com",
     "slug": "king-s-view-acres",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 411,
@@ -806,7 +806,7 @@
     "timeMonth": 368,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2021-08-21": 17
+      "2021-08-21": 18
     }
   },
   {
