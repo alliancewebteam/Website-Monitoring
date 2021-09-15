@@ -1,7 +1,7 @@
 url: https://harrisburgarchitects.net
-status: up
-code: 200
-responseTime: 1294
-lastUpdated: 2021-09-14T23:07:49.653Z
+status: down
+code: 500
+responseTime: 1177
+lastUpdated: 2021-09-15T02:39:24.665Z
 startTime: Tue Jun 15 2021 19:16:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
