@@ -761,19 +761,19 @@
     "url": "https://indiancreekcommunity.org/",
     "icon": "https://favicons.githubusercontent.com/indiancreekcommunity.org",
     "slug": "indian-creek",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2615,
-    "timeDay": 2891,
-    "timeWeek": 2935,
-    "timeMonth": 3001,
-    "timeYear": 2615,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 2623,
+    "timeDay": 3218,
+    "timeWeek": 3012,
+    "timeMonth": 3018,
+    "timeYear": 2623,
     "dailyMinutesDown": {
-      "2021-09-23": 1
+      "2021-09-23": 14
     }
   },
   {
