@@ -648,18 +648,18 @@
     "icon": "https://favicons.githubusercontent.com/www.hoem-inc.com",
     "slug": "hoem-inc",
     "status": "down",
-    "uptime": "87.60%",
+    "uptime": "87.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.51%",
-    "uptimeYear": "87.60%",
+    "uptimeMonth": "51.45%",
+    "uptimeYear": "87.58%",
     "time": 1211,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 3157,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2021-10-12": 1252,
+      "2021-10-12": 1277,
       "2021-10-11": 1440,
       "2021-10-10": 1440,
       "2021-10-09": 1440,
@@ -782,11 +782,11 @@
     "url": "https://indiancreekcommunity.org/",
     "icon": "https://favicons.githubusercontent.com/indiancreekcommunity.org",
     "slug": "indian-creek",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 3237,
     "timeDay": 17285,
@@ -794,7 +794,7 @@
     "timeMonth": 5176,
     "timeYear": 3237,
     "dailyMinutesDown": {
-      "2021-10-12": 54
+      "2021-10-12": 47
     }
   },
   {
