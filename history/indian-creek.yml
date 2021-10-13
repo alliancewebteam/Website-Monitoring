@@ -1,7 +1,7 @@
 url: https://indiancreekcommunity.org/
-status: up
-code: 200
-responseTime: 23576
-lastUpdated: 2021-10-13T09:29:53.506Z
+status: down
+code: 500
+responseTime: 444
+lastUpdated: 2021-10-13T09:59:11.854Z
 startTime: Tue Jun 15 2021 19:17:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
