@@ -141,18 +141,20 @@
     "url": "https://autismyork.org",
     "icon": "https://favicons.githubusercontent.com/autismyork.org",
     "slug": "autism-york",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 2238,
     "timeDay": 2442,
     "timeWeek": 2172,
     "timeMonth": 2296,
     "timeYear": 2238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 9
+    }
   },
   {
     "name": "Bow Creek Financial And Jewelry",
@@ -266,11 +268,11 @@
     "url": "https://www.christchurchcamphill.org/",
     "icon": "https://favicons.githubusercontent.com/www.christchurchcamphill.org",
     "slug": "christ-presbyterian-church",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 3143,
     "timeDay": 3133,
@@ -278,6 +280,7 @@
     "timeMonth": 3022,
     "timeYear": 3143,
     "dailyMinutesDown": {
+      "2021-12-14": 8,
       "2021-10-04": 15
     }
   },
@@ -635,18 +638,20 @@
     "url": "https://www.thehandyworx.com/",
     "icon": "https://favicons.githubusercontent.com/www.thehandyworx.com",
     "slug": "handyworx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 516,
     "timeDay": 421,
     "timeWeek": 506,
     "timeMonth": 503,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 7
+    }
   },
   {
     "name": "Hershey Real Estate Group",
@@ -672,18 +677,18 @@
     "icon": "https://favicons.githubusercontent.com/www.hoem-inc.com",
     "slug": "hoem-inc",
     "status": "down",
-    "uptime": "57.45%",
+    "uptime": "57.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "57.45%",
+    "uptimeYear": "57.44%",
     "time": 1211,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2021-12-14": 501,
+      "2021-12-14": 529,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
       "2021-12-11": 1440,
@@ -794,7 +799,7 @@
     "url": "https://www.harrisburgbuilders.com/",
     "icon": "https://favicons.githubusercontent.com/www.harrisburgbuilders.com",
     "slug": "home-builders-association-of-metropolitan-harrisburg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -812,36 +817,40 @@
     "url": "https://www.pahomeandgarden.com/",
     "icon": "https://favicons.githubusercontent.com/www.pahomeandgarden.com",
     "slug": "hba-pa-home-and-garden-design-expo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1450,
     "timeDay": 1782,
     "timeWeek": 1580,
     "timeMonth": 1542,
     "timeYear": 1450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 6
+    }
   },
   {
     "name": "HMR Auto Body",
     "url": "https://hmrautobody.com/",
     "icon": "https://favicons.githubusercontent.com/hmrautobody.com",
     "slug": "hmr-auto-body",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 357,
     "timeWeek": 416,
     "timeMonth": 420,
     "timeYear": 416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 6
+    }
   },
   {
     "name": "Impact Harrisburg",
@@ -1037,18 +1046,20 @@
     "url": "https://www.pigottagencyllc.com/",
     "icon": "https://favicons.githubusercontent.com/www.pigottagencyllc.com",
     "slug": "pigott-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 456,
     "timeDay": 390,
     "timeWeek": 452,
     "timeMonth": 449,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 5
+    }
   },
   {
     "name": "PrimeFyre LLC",
@@ -1162,10 +1173,10 @@
     "url": "https://sohclub.com",
     "icon": "https://favicons.githubusercontent.com/sohclub.com",
     "slug": "savannah-s",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 689,
@@ -1174,7 +1185,7 @@
     "timeMonth": 695,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2021-12-14": 20
+      "2021-12-14": 24
     }
   },
   {
@@ -1182,18 +1193,20 @@
     "url": "https://www.securewiretech.com/",
     "icon": "https://favicons.githubusercontent.com/www.securewiretech.com",
     "slug": "securewire-technologies-llc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1968,
     "timeDay": 2532,
     "timeWeek": 2470,
     "timeMonth": 2310,
     "timeYear": 1968,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 3
+    }
   },
   {
     "name": "Seifert Woodcrafts",
@@ -1218,18 +1231,20 @@
     "url": "https://simplygreekhershey.com",
     "icon": "https://favicons.githubusercontent.com/simplygreekhershey.com",
     "slug": "simply-greek-hershey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2951,
     "timeDay": 2506,
     "timeWeek": 2612,
     "timeMonth": 2919,
     "timeYear": 2951,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 3
+    }
   },
   {
     "name": "Steve Puchalo / Church of God",
@@ -1292,10 +1307,10 @@
     "url": "https://sunrisehorseboarding.com/",
     "icon": "https://favicons.githubusercontent.com/sunrisehorseboarding.com",
     "slug": "sunrise-stables",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
@@ -1303,7 +1318,9 @@
     "timeWeek": 406,
     "timeMonth": 338,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 2
+    }
   },
   {
     "name": "Szeles and Associates",
@@ -1328,10 +1345,10 @@
     "url": "https://www.themeadowspetresort.com/",
     "icon": "https://favicons.githubusercontent.com/www.themeadowspetresort.com",
     "slug": "the-meadows-pet-resort",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
@@ -1339,7 +1356,9 @@
     "timeWeek": 499,
     "timeMonth": 494,
     "timeYear": 507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 1
+    }
   },
   {
     "name": "Touch of Color Flooring",
@@ -1429,10 +1448,10 @@
     "url": "https://westshoreelks.org/",
     "icon": "https://favicons.githubusercontent.com/westshoreelks.org",
     "slug": "west-shore-elks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1705,
@@ -1440,7 +1459,9 @@
     "timeWeek": 1818,
     "timeMonth": 1606,
     "timeYear": 1705,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 1
+    }
   },
   {
     "name": "Wide Horizons Travel",
