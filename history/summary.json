@@ -24,9 +24,9 @@
     "slug": "access-bus-and-van",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1891,
     "timeDay": 2132,
@@ -34,7 +34,6 @@
     "timeMonth": 2158,
     "timeYear": 1891,
     "dailyMinutesDown": {
-      "2021-12-14": 14,
       "2021-10-01": 15
     }
   },
@@ -526,18 +525,16 @@
     "slug": "glossner-and-mcelwee-family-dentistry",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2316,
     "timeDay": 2732,
     "timeWeek": 2785,
     "timeMonth": 2814,
     "timeYear": 2316,
-    "dailyMinutesDown": {
-      "2021-12-14": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Go Life Surfing Inc.",
@@ -686,7 +683,7 @@
     "timeMonth": 0,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2021-12-14": 453,
+      "2021-12-14": 474,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
       "2021-12-11": 1440,
@@ -835,18 +832,16 @@
     "slug": "hmr-auto-body",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 357,
     "timeWeek": 416,
     "timeMonth": 420,
     "timeYear": 416,
-    "dailyMinutesDown": {
-      "2021-12-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Impact Harrisburg",
@@ -897,11 +892,11 @@
     "url": "https://jhowardcahill.com/",
     "icon": "https://favicons.githubusercontent.com/jhowardcahill.com",
     "slug": "john-jewett",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 3822,
     "timeDay": 3756,
@@ -909,6 +904,7 @@
     "timeMonth": 3924,
     "timeYear": 3822,
     "dailyMinutesDown": {
+      "2021-12-14": 2,
       "2021-07-13": 16
     }
   },
@@ -1258,10 +1254,10 @@
     "url": "https://www.stoneandedwards.com/",
     "icon": "https://favicons.githubusercontent.com/www.stoneandedwards.com",
     "slug": "stone-and-edwards",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1850,
@@ -1269,7 +1265,9 @@
     "timeWeek": 1990,
     "timeMonth": 1959,
     "timeYear": 1850,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 1
+    }
   },
   {
     "name": "Strategic Response Firearms Training",
