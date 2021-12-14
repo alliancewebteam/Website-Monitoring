@@ -123,18 +123,20 @@
     "url": "https://andersonpropainting.com",
     "icon": "https://favicons.githubusercontent.com/andersonpropainting.com",
     "slug": "anderson-pro-painting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1544,
     "timeDay": 2040,
     "timeWeek": 1602,
     "timeMonth": 1663,
     "timeYear": 1544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 6
+    }
   },
   {
     "name": "Autism York",
@@ -143,18 +145,16 @@
     "slug": "autism-york",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2234,
     "timeDay": 1949,
     "timeWeek": 2083,
     "timeMonth": 2269,
     "timeYear": 2234,
-    "dailyMinutesDown": {
-      "2021-12-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bow Creek Financial And Jewelry",
@@ -268,19 +268,19 @@
     "url": "https://www.christchurchcamphill.org/",
     "icon": "https://favicons.githubusercontent.com/www.christchurchcamphill.org",
     "slug": "christ-presbyterian-church",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 3141,
-    "timeDay": 2904,
-    "timeWeek": 3138,
-    "timeMonth": 3011,
-    "timeYear": 3141,
+    "time": 3165,
+    "timeDay": 4558,
+    "timeWeek": 3664,
+    "timeMonth": 3163,
+    "timeYear": 3165,
     "dailyMinutesDown": {
-      "2021-12-14": 16,
+      "2021-12-14": 20,
       "2021-10-04": 15
     }
   },
@@ -508,19 +508,19 @@
     "url": "https://www.fortneyprinting.com/",
     "icon": "https://favicons.githubusercontent.com/www.fortneyprinting.com",
     "slug": "fortney-printing",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 363,
-    "timeWeek": 433,
-    "timeMonth": 427,
-    "timeYear": 417,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 416,
+    "timeDay": 347,
+    "timeWeek": 421,
+    "timeMonth": 424,
+    "timeYear": 416,
     "dailyMinutesDown": {
-      "2021-12-14": 4
+      "2021-12-14": 20
     }
   },
   {
@@ -584,11 +584,11 @@
     "url": "https://www.guthlabs.com/",
     "icon": "https://favicons.githubusercontent.com/www.guthlabs.com",
     "slug": "guth-laboratories",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 2448,
     "timeDay": 2051,
@@ -596,6 +596,7 @@
     "timeMonth": 2409,
     "timeYear": 2448,
     "dailyMinutesDown": {
+      "2021-12-14": 4,
       "2021-08-15": 24
     }
   },
@@ -640,19 +641,19 @@
     "url": "https://www.thehandyworx.com/",
     "icon": "https://favicons.githubusercontent.com/www.thehandyworx.com",
     "slug": "handyworx",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 418,
-    "timeWeek": 495,
-    "timeMonth": 500,
-    "timeYear": 515,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 537,
+    "timeDay": 1875,
+    "timeWeek": 972,
+    "timeMonth": 635,
+    "timeYear": 537,
     "dailyMinutesDown": {
-      "2021-12-14": 3
+      "2021-12-14": 20
     }
   },
   {
@@ -660,18 +661,20 @@
     "url": "https://hersheyreg.com/",
     "icon": "https://favicons.githubusercontent.com/hersheyreg.com",
     "slug": "hershey-real-estate-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 411,
     "timeWeek": 439,
     "timeMonth": 424,
     "timeYear": 418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 4
+    }
   },
   {
     "name": "Hoem Inc.",
@@ -679,18 +682,18 @@
     "icon": "https://favicons.githubusercontent.com/www.hoem-inc.com",
     "slug": "hoem-inc",
     "status": "down",
-    "uptime": "57.44%",
+    "uptime": "57.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "57.44%",
+    "uptimeYear": "57.43%",
     "time": 1211,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2021-12-14": 545,
+      "2021-12-14": 566,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
       "2021-12-11": 1440,
@@ -1006,19 +1009,19 @@
     "url": "https://www.moyleslaw.com/",
     "icon": "https://favicons.githubusercontent.com/www.moyleslaw.com",
     "slug": "moyles-muzic-law",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 620,
-    "timeWeek": 800,
-    "timeMonth": 990,
-    "timeYear": 847,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 846,
+    "timeDay": 645,
+    "timeWeek": 784,
+    "timeMonth": 980,
+    "timeYear": 846,
     "dailyMinutesDown": {
-      "2021-12-14": 2
+      "2021-12-14": 20
     }
   },
   {
@@ -1135,10 +1138,10 @@
     "url": "https://reddssmokehousebbq.com/",
     "icon": "https://favicons.githubusercontent.com/reddssmokehousebbq.com",
     "slug": "redd-s-smokehouse-bbq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2126,
@@ -1146,17 +1149,19 @@
     "timeWeek": 2220,
     "timeMonth": 2112,
     "timeYear": 2126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 2
+    }
   },
   {
     "name": "Saidis, Shultz, & Fisher",
     "url": "https://www.ssfadvocates.com/",
     "icon": "https://favicons.githubusercontent.com/www.ssfadvocates.com",
     "slug": "saidis-shultz-and-fisher",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 497,
@@ -1164,17 +1169,19 @@
     "timeWeek": 504,
     "timeMonth": 491,
     "timeYear": 497,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 2
+    }
   },
   {
     "name": "Savannah's",
     "url": "https://sohclub.com",
     "icon": "https://favicons.githubusercontent.com/sohclub.com",
     "slug": "savannah-s",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 688,
@@ -1183,7 +1190,7 @@
     "timeMonth": 689,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2021-12-14": 20
+      "2021-12-14": 21
     }
   },
   {
