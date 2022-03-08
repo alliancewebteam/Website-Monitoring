@@ -550,11 +550,11 @@
     "url": "https://fandmdesigns.com",
     "icon": "https://favicons.githubusercontent.com/fandmdesigns.com",
     "slug": "f-and-m-designs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 509,
     "timeDay": 436,
@@ -562,7 +562,7 @@
     "timeMonth": 462,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2022-03-08": 8,
+      "2022-03-08": 2,
       "2021-10-15": 18,
       "2021-09-01": 19
     }
@@ -758,7 +758,7 @@
     "timeMonth": 0,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2022-03-08": 1137,
+      "2022-03-08": 1150,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
@@ -1222,7 +1222,7 @@
     "timeMonth": 1191,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2022-03-08": 1138,
+      "2022-03-08": 1151,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
@@ -1539,7 +1539,7 @@
     "timeMonth": 690,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2022-03-08": 1138,
+      "2022-03-08": 1151,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
@@ -1682,9 +1682,9 @@
     "slug": "touch-of-color-flooring",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 947,
     "timeDay": 615,
@@ -1692,7 +1692,6 @@
     "timeMonth": 627,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2022-03-08": 8,
       "2022-01-27": 18,
       "2022-01-14": 16,
       "2021-12-23": 19,
