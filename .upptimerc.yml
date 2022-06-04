@@ -15,7 +15,7 @@ sites:
     url: https://alliedgrouppa.com
     
   - name: Allied Maintenance Systems
-    url: https://alliedmaintenancesystems.com/
+    url: https://alliedmaintenancesystems.com
     
   - name: AquaTek Cleaning Solutions
     url: https://aquatekpa.com
@@ -25,7 +25,10 @@ sites:
     
   - name: Autism York
     url: https://autismyork.org
-
+    
+  - name: A Plus Mortgage Solutions
+    url: https://aplusmortgagesolutions.com
+    
   - name: Boyo Transportation
     url: https://boyotrans.com
 
@@ -35,164 +38,176 @@ sites:
   - name: Carpet Care Solutions, Inc
     url: https://harrisburgarchitects.net
     
+  - name: Castle Hill Resort & Spa
+    url: https://www.castlehillresortvt.com
+    
   - name: Center For Independent Living
-    url: https://cilopportunities.org/
+    url: https://cilopportunities.org
     
   - name: Christ Presbyterian Church
-    url: https://christchurchcamphill.org/
+    url: https://christchurchcamphill.org
     
   - name: Christopher Columbus Scholarship Foundation
-    url: https://ccsfyorkpa.org/
+    url: https://ccsfyorkpa.org
     
   - name: Christopher Columbus Scholarship Foundation - Scholarship Application
-    url: https://forms.ccsfyorkpa.org/
+    url: https://forms.ccsfyorkpa.org
     
   - name: Clarke Benefits
-    url: https://clarkebenefits4u.com/
+    url: https://clarkebenefits4u.com
         
   - name: Creative Building Concepts
-    url: https://buildsomethingcreative.com/
+    url: https://buildsomethingcreative.com
         
   - name: DB360 Soft Wash
     url: https://db360wash.com
         
   - name: Down East Granite
-    url: https://downeastfab.com/
+    url: https://downeastfab.com
           
   - name: Dream Home Realty
     url: https://dreamhrpa.com
     
   - name: "Duffy's Bed And Biscuit"
     url: https://duffysbedandbiscuit.com
-        
+    
+  - name: "ELI Consulting"
+    url: https://educateinnovateinspire.com      
+    
   - name: F&M Designs
     url: https://fandmdesigns.com
         
   - name: Fortney Printing
-    url: https://fortneyprinting.com/
+    url: https://fortneyprinting.com
+            
+  - name: GES America
+    url: https://ges-america.com
             
   - name: Glossner & Mcelwee Family Dentistry
-    url: https://gmdentalcare.net/
+    url: https://gmdentalcare.net
             
   - name: Go Life Surfing Inc.
-    url: https://golifesurfing.com/
+    url: https://golifesurfing.com
             
   - name: Guth Laboratories
-    url: https://guthlabs.com/
+    url: https://guthlabs.com
             
   - name: Habitat for Humanity of the Greater Harrisburg Area
-    url: https://harrisburghabitat.org/
+    url: https://harrisburghabitat.org
             
   - name: Habitat for Humanity of the Greater Harrisburg Area - ReStore
-    url: https://harrisburgrestore.org/
+    url: https://harrisburgrestore.org
             
   - name: Handyworx
-    url: https://thehandyworx.com/
+    url: https://thehandyworx.com
     
   - name: "Henry's Lock & Key Service"
-    url: https://thehandyworx.com/
+    url: https://thehandyworx.com
                
   - name: Hershey Real Estate Group
-    url: https://hersheyreg.com/
+    url: https://hersheyreg.com
 
   - name: Hoem Inc. / Precision Metal Fabricating
-    url: https:/precisionmetalpa.com/
+    url: https:/precisionmetalpa.com
             
   - name: Home Builders Association of Metropolitan Harrisburg
-    url: https://www.harrisburgbuilders.com/
+    url: https://www.harrisburgbuilders.com
                           
   - name: HMR Auto Body
-    url: https://hmrautobody.com/
+    url: https://hmrautobody.com
     
   - name: Impact Harrisburg
-    url: https://impactharrisburg.org/
+    url: https://impactharrisburg.org
                 
   - name: Indian Creek
-    url: https://indiancreekcommunity.org/
-                
+    url: https://indiancreekcommunity.org
+                     
+  - name: JB Buy Rite
+    url: https://jbbuyrite.com
+    
   - name: John Jewett
-    url: https://jhowardcahill.com/
+    url: https://jhowardcahill.com
                 
   - name: Key Painting
-    url: https://keypainting.net/
+    url: https://keypainting.net
                     
   - name: "King's View Acres"
-    url: https://kingsviewacres.com/
+    url: https://kingsviewacres.com
                 
   - name: Machining America
-    url: https://machiningamerica.com/
+    url: https://machiningamerica.com
                 
   - name: MJR Equipment
-    url: https://mjrequipment.com/
+    url: https://mjrequipment.com
                 
   - name: Moyles Muzic Law
-    url: https://moyleslaw.com/
+    url: https://moyleslaw.com
                 
   - name: Mr Sandman Flooring
-    url: https://callmrsandman.com/
+    url: https://callmrsandman.com
                 
   - name: Pigott Agency
-    url: https://www.pigottagencyllc.com/
+    url: https://www.pigottagencyllc.com
                 
   - name: PrimeFyre LLC
-    url: https://primefyre.com/
+    url: https://primefyre.com
     
   - name: Reach For More
-    url: https://reachformore.fit/
+    url: https://reachformore.fit
         
   - name: "Redd's Smokehouse BBQ"
-    url: https://reddssmokehousebbq.com/
+    url: https://reddssmokehousebbq.com
                             
   - name: Saidis, Shultz, & Fisher
-    url: https://www.ssfadvocates.com/
+    url: https://www.ssfadvocates.com
 
   - name: "Savannah's"
     url: https://sohclub.com
                     
   - name: Securewire Technologies LLC
-    url: https://www.securewiretech.com/
+    url: https://www.securewiretech.com
                         
   - name: Seifert Woodcrafts
-    url: https://seifertwc.com/
+    url: https://seifertwc.com
     
   - name: Simply Greek, Hershey
     url: https://simplygreekhershey.com
         
   - name: Stone and Edwards
-    url: https://www.stoneandedwards.com/
+    url: https://www.stoneandedwards.com
         
   - name: Strategic Response Firearms Training
     url: https://www.srft16.com/
         
   - name: Sunrise Stables
-    url: https://sunrisehorseboarding.com/
+    url: https://sunrisehorseboarding.com
         
   - name: Szeles and Associates
-    url: https://www.szelesas.com/
+    url: https://www.szelesas.com
         
   - name: The Meadows Pet Resort
-    url: https://www.themeadowspetresort.com/
+    url: https://www.themeadowspetresort.com
         
   - name: Touch of Color Flooring
-    url: https://touchofcolorflooring.com/
+    url: https://touchofcolorflooring.com
         
   - name: Tritan Pool and Spa
-    url: https://www.tritanpoolandspa.com/
+    url: https://www.tritanpoolandspa.com
         
   - name: Trix of the Trade Salon
-    url: https://trixofthetradesalon.com/
+    url: https://trixofthetradesalon.com
         
   - name: Upon This Rock Ministries
-    url: https://uponthisrock2950.com/
+    url: https://uponthisrock2950.com
           
   - name: West Shore Elks
-    url: https://westshoreelks.org/
+    url: https://westshoreelks.org
             
   - name: Wide Horizons Travel
-    url: https://widehorizonstravel.com/
+    url: https://widehorizonstravel.com
             
   - name: Woodburn Law
-    url: https://woodburn-law.com/
+    url: https://woodburn-law.com
     
     
 assignees: # Users to assign downtime issues (optional)
