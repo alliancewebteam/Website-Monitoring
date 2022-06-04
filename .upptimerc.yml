@@ -6,31 +6,28 @@ sites:
     url: https://alliancecomp.com
     
   - name: Access Bus & Van
-    url: https://www.accessbusandvan.com
+    url: https://accessbusandvan.com
     
   - name: Allison Ong Shreffler, Architecture
     url: https://harrisburgarchitects.net
     
   - name: Allied Group PA
-    url: https://alliedgrouppa.com/
+    url: https://alliedgrouppa.com
     
   - name: Allied Maintenance Systems
-    url: https://www.alliedmaintenancesystems.com/
+    url: https://alliedmaintenancesystems.com/
     
   - name: AquaTek Cleaning Solutions
-    url: https://aquatekpa.com/
+    url: https://aquatekpa.com
     
   - name: Anderson Pro Painting
     url: https://andersonpropainting.com
     
   - name: Autism York
     url: https://autismyork.org
-    
-  - name: Bow Creek Financial And Jewelry
-    url: http://www.bowcreekfinancial.com
-    
+
   - name: Boyo Transportation
-    url: https://www.boyotrans.com
+    url: https://boyotrans.com
 
   - name: Capital Hospitality Services
     url: https://chshotelrenovations.com
@@ -42,10 +39,13 @@ sites:
     url: https://cilopportunities.org/
     
   - name: Christ Presbyterian Church
-    url: https://www.christchurchcamphill.org/
+    url: https://christchurchcamphill.org/
     
   - name: Christopher Columbus Scholarship Foundation
-    url: https://www.ccsfyorkpa.org/
+    url: https://ccsfyorkpa.org/
+    
+  - name: Christopher Columbus Scholarship Foundation - Scholarship Application
+    url: https://forms.ccsfyorkpa.org/
     
   - name: Clarke Benefits
     url: https://clarkebenefits4u.com/
@@ -53,29 +53,23 @@ sites:
   - name: Creative Building Concepts
     url: https://buildsomethingcreative.com/
         
-  - name: Creative Law Studio
-    url: https://www.creativelawstudio.com/
-        
-  - name: Dale Wagner Insurance Agency
-    url: https://www.dwi-ins.com/
-        
   - name: DB360 Soft Wash
     url: https://db360wash.com
         
   - name: Down East Granite
-    url: https://www.downeastfab.com/
+    url: https://downeastfab.com/
           
   - name: Dream Home Realty
     url: https://dreamhrpa.com
     
-  - name: Duffy's Bed And Biscuit
+  - name: "Duffy's Bed And Biscuit"
     url: https://duffysbedandbiscuit.com
         
   - name: F&M Designs
     url: https://fandmdesigns.com
         
   - name: Fortney Printing
-    url: https://www.fortneyprinting.com/
+    url: https://fortneyprinting.com/
             
   - name: Glossner & Mcelwee Family Dentistry
     url: https://gmdentalcare.net/
@@ -83,11 +77,8 @@ sites:
   - name: Go Life Surfing Inc.
     url: https://golifesurfing.com/
             
-  - name: Grassworks Landscaping
-    url: https://grassworkslandscaping.com/
-            
   - name: Guth Laboratories
-    url: https://www.guthlabs.com/
+    url: https://guthlabs.com/
             
   - name: Habitat for Humanity of the Greater Harrisburg Area
     url: https://harrisburghabitat.org/
@@ -96,23 +87,20 @@ sites:
     url: https://harrisburgrestore.org/
             
   - name: Handyworx
-    url: https://www.thehandyworx.com/
-            
+    url: https://thehandyworx.com/
+    
+  - name: "Henry's Lock & Key Service"
+    url: https://thehandyworx.com/
+               
   - name: Hershey Real Estate Group
     url: https://hersheyreg.com/
-            
-  - name: Hoem Inc.
-    url: https://www.hoem-inc.com/
-            
+
   - name: Hoem Inc. / Precision Metal Fabricating
     url: https:/precisionmetalpa.com/
             
   - name: Home Builders Association of Metropolitan Harrisburg
     url: https://www.harrisburgbuilders.com/
-            
-  - name: HBA / PA Home & Garden Design Expo
-    url: https://www.pahomeandgarden.com/
-                
+                          
   - name: HMR Auto Body
     url: https://hmrautobody.com/
     
@@ -129,16 +117,16 @@ sites:
     url: https://keypainting.net/
                     
   - name: "King's View Acres"
-    url: https://www.kingsviewacres.com/
+    url: https://kingsviewacres.com/
                 
   - name: Machining America
     url: https://machiningamerica.com/
                 
   - name: MJR Equipment
-    url: https://www.mjrequipment.com/
+    url: https://mjrequipment.com/
                 
   - name: Moyles Muzic Law
-    url: https://www.moyleslaw.com/
+    url: https://moyleslaw.com/
                 
   - name: Mr Sandman Flooring
     url: https://callmrsandman.com/
@@ -151,17 +139,14 @@ sites:
     
   - name: Reach For More
     url: https://reachformore.fit/
-                
-  - name: Reves Etheres Event LLC
-    url: https://revesetheres.com/
-                    
-  - name: Redd's Smokehouse BBQ
+        
+  - name: "Redd's Smokehouse BBQ"
     url: https://reddssmokehousebbq.com/
                             
   - name: Saidis, Shultz, & Fisher
     url: https://www.ssfadvocates.com/
 
-  - name: Savannah's
+  - name: "Savannah's"
     url: https://sohclub.com
                     
   - name: Securewire Technologies LLC
@@ -172,9 +157,6 @@ sites:
     
   - name: Simply Greek, Hershey
     url: https://simplygreekhershey.com
-        
-  - name: Steve Puchalo / Church of God
-    url: https://www.followjesuscog.com/
         
   - name: Stone and Edwards
     url: https://www.stoneandedwards.com/
@@ -210,10 +192,7 @@ sites:
     url: https://widehorizonstravel.com/
             
   - name: Woodburn Law
-    url: https://www.woodburn-law.com/
-    
-  - name: Zang Physical Therapy
-    url: https://zangpt.com/    
+    url: https://woodburn-law.com/
     
     
 assignees: # Users to assign downtime issues (optional)
