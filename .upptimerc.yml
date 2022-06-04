@@ -28,10 +28,31 @@ sites:
     
   - name: A Plus Mortgage Solutions
     url: https://aplusmortgagesolutions.com
+        
+  - name: BHD - The Second Half
+    url: https://bhdsecondhalf.com
+    
+  - name: Boone Graphics LLC
+    url: https://boonegraphicsllc.com
     
   - name: Boyo Transportation
     url: https://boyotrans.com
-
+    
+  - name: Brentmore
+    url: https://brentmore.net
+    
+  - name: Brewvino Hand-crafted Pizza
+    url: https://brewvino.com
+    
+  - name: Bricks & Sticks Title Agency
+    url: https://bns-settlements.com
+    
+  - name: Bucher Group
+    url: https://buchergroup.com
+    
+  - name: Buckland Sales
+    url: https://bucklandsales.com
+        
   - name: Capital Hospitality Services
     url: https://chshotelrenovations.com
     
@@ -61,6 +82,9 @@ sites:
         
   - name: DB360 Soft Wash
     url: https://db360wash.com
+ 
+  - name: Dave Buell For PA House
+    url: https://dbforpa.com
         
   - name: Down East Granite
     url: https://downeastfab.com
@@ -121,7 +145,10 @@ sites:
                 
   - name: Indian Creek
     url: https://indiancreekcommunity.org
-                     
+                        
+  - name: Jaz Design Co
+    url: https://jazdesignco.com
+    
   - name: JB Buy Rite
     url: https://jbbuyrite.com
     
@@ -136,6 +163,15 @@ sites:
                 
   - name: Machining America
     url: https://machiningamerica.com
+                    
+  - name: Maria Memmi
+    url: https://mariamemmi.com
+    
+   - name: Matterhorn Bar & Restaurant
+    url: https://matterhornbar.com
+    
+   - name: Miller & Son Electro-Plating
+    url: https://millerplatingnj.com
                 
   - name: MJR Equipment
     url: https://mjrequipment.com
@@ -145,9 +181,12 @@ sites:
                 
   - name: Mr Sandman Flooring
     url: https://callmrsandman.com
-                
+    
+  - name: Parker Surfcraft
+    url: https://parkersurfcraft.com
+    
   - name: Pigott Agency
-    url: https://www.pigottagencyllc.com
+    url: https://pigottagencyllc.com
                 
   - name: PrimeFyre LLC
     url: https://primefyre.com
@@ -157,6 +196,9 @@ sites:
         
   - name: "Redd's Smokehouse BBQ"
     url: https://reddssmokehousebbq.com
+    
+  - name: Ruthcliffe Lodge & Restaurant
+    url: https://ruthcliffe.com    
                             
   - name: Saidis, Shultz, & Fisher
     url: https://www.ssfadvocates.com
@@ -165,41 +207,65 @@ sites:
     url: https://sohclub.com
                     
   - name: Securewire Technologies LLC
-    url: https://www.securewiretech.com
+    url: https://securewiretech.com
+    
+  - name: Sees The Day, Inc.
+    url: https://sees-the-day.com
                         
   - name: Seifert Woodcrafts
     url: https://seifertwc.com
+    
+  - name: "Shawn's Landscaping"
+    url: https://shawns-landscaping.com
     
   - name: Simply Greek, Hershey
     url: https://simplygreekhershey.com
         
   - name: Stone and Edwards
-    url: https://www.stoneandedwards.com
+    url: https://stoneandedwards.com
         
   - name: Strategic Response Firearms Training
-    url: https://www.srft16.com/
+    url: https://srft16.com/
+    
+  - name: Strube Inc.
+    url: https://strubeinc.net
         
   - name: Sunrise Stables
     url: https://sunrisehorseboarding.com
-        
+         
+  - name: "St. Paul's Evangelical Lutheran Church"
+    url: https://stpaulsandhill.com
+    
   - name: Szeles and Associates
-    url: https://www.szelesas.com
+    url: https://szelesas.com
         
   - name: The Meadows Pet Resort
-    url: https://www.themeadowspetresort.com
+    url: https://themeadowspetresort.com
         
   - name: Touch of Color Flooring
     url: https://touchofcolorflooring.com
         
   - name: Tritan Pool and Spa
-    url: https://www.tritanpoolandspa.com
+    url: https://tritanpoolandspa.com
         
   - name: Trix of the Trade Salon
     url: https://trixofthetradesalon.com
         
+  - name: Unlimited Construction Services
+    url: https://ucs1.com
+          
   - name: Upon This Rock Ministries
     url: https://uponthisrock2950.com
-          
+    
+  - name: V3 Fitness Pro
+    url: https://v3fitnesspro.com
+      
+  - name: Wert Book Binding
+    url: https://wertbookbinding.com
+    
+  - name: West Shire Decks
+    url: https://westshiredecks.com
+    
   - name: West Shore Elks
     url: https://westshoreelks.org
             
@@ -208,6 +274,9 @@ sites:
             
   - name: Woodburn Law
     url: https://woodburn-law.com
+      
+  - name: Yorklyn Construction
+    url: https://yorklynconstruction.com
     
     
 assignees: # Users to assign downtime issues (optional)
