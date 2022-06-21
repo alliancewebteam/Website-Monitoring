@@ -236,46 +236,46 @@ sites:
   - name: "St. Paul's Evangelical Lutheran Church"
     url: https://stpaulsandhill.com
     
-  - name: Szeles and Associates
+  - name: "Szeles and Associates"
     url: https://szelesas.com
         
-  - name: The Meadows Pet Resort
+  - name: "The Meadows Pet Resort"
     url: https://themeadowspetresort.com
         
-  - name: Touch of Color Flooring
+  - name: "Touch of Color Flooring"
     url: https://touchofcolorflooring.com
         
-  - name: Tritan Pool and Spa
+  - name: "Tritan Pool and Spa"
     url: https://tritanpoolandspa.com
         
-  - name: Trix of the Trade Salon
+  - name: "Trix of the Trade Salon"
     url: https://trixofthetradesalon.com
         
-  - name: Unlimited Construction Services
+  - name: "Unlimited Construction Services"
     url: https://ucs1.com
           
-  - name: Upon This Rock Ministries
+  - name: "Upon This Rock Ministries"
     url: https://uponthisrock2950.com
     
-  - name: V3 Fitness Pro
+  - name: "V3 Fitness Pro"
     url: https://v3fitnesspro.com
       
-  - name: Wert Book Binding
+  - name: "Wert Book Binding"
     url: https://wertbookbinding.com
     
-  - name: West Shire Decks
+  - name: "West Shire Decks"
     url: https://westshiredecks.com
     
-  - name: West Shore Elks
+  - name: "West Shore Elks"
     url: https://westshoreelks.org
             
-  - name: Wide Horizons Travel
+  - name: "Wide Horizons Travel"
     url: https://widehorizonstravel.com
             
-  - name: Woodburn Law
+  - name: "Woodburn Law"
     url: https://woodburn-law.com
       
-  - name: Yorklyn Construction
+  - name: "Yorklyn Construction"
     url: https://yorklynconstruction.com
     
 assignees: # Users to assign downtime issues (optional)
