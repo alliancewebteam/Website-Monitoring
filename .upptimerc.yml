@@ -278,7 +278,6 @@ sites:
   - name: Yorklyn Construction
     url: https://yorklynconstruction.com
     
-    
 assignees: # Users to assign downtime issues (optional)
   - jonathansingel
 status-website:
